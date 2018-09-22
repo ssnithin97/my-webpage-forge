@@ -1,0 +1,22 @@
+.nit{
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+  display: block;
+}
+.all{
+  background-color: #00bfff;
+  text-align: center;
+}
+mark1{
+  background-color: white;
+  border: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+.mark1{
+  background-color: white;
+  border: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
