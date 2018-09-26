@@ -3,10 +3,19 @@
   height: 200px;
   margin: 0 auto;
   display: block;
+  border-radius: 10px;
 }
 .all{
   background-color: #00bfff;
   text-align: center;
+}
+h1,h3,h2{
+  font-family: sans-serif;
+}
+p{
+  font-style: normal;
+  font-family: fantasy;
+  font-weight: bold;
 }
 mark1{
   background-color: white;
@@ -17,10 +26,6 @@ mark1{
 .mark1{
   background-color: white;
   border: 10px;
-  border-radius: 5px;
+  border-radius: 25px;
   padding: 10px;
-}
-p{
-  font-family:verdana;
-  font-size: 200%;
 }
